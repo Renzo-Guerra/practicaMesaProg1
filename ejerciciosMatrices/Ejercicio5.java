@@ -1,7 +1,3 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.Random;
-
 /*
  * Hacer un programa que dado una matriz de enteros de tamaño 5*10 que se encuentra precargada, 
  * solicite al usuario un numero entero y elimine la primera ocurrencia de numero en la matriz 
@@ -11,6 +7,7 @@ import java.util.Random;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Random;
 
 public class Ejercicio5 {
   public static final int CANT_FILAS = 5;
